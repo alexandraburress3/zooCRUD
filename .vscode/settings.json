@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "ZooDB/ZooDB.sqlproj"
+    ]
+}

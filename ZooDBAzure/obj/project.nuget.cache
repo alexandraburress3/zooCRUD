@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rXwAAZPG2JvsyE7Sr4klrlet0x5CevzwcaZJWX6c5DsYTXJhwZ/s/kWYig23TflEBd3QyROrqOly7W6RAJSo+Q==",
+  "success": true,
+  "projectFilePath": "/Users/allieb/Projects/zooCRUD/ZooDBAzure/ZooDBAzure.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/allieb/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/allieb/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

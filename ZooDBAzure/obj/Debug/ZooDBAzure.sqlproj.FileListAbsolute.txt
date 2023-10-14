@@ -1,0 +1,9 @@
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/bin/Debug/ZooDBAzure.dacpac
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/bin/Debug/ZooDBAzure.dll
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/bin/Debug/ZooDBAzure.pdb
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/Model.xml
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/refactor.xml
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/postdeploy.sql
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/predeploy.sql
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/ZooDBAzure.dll
+/Users/allieb/Projects/zooCRUD/ZooDBAzure/obj/Debug/ZooDBAzure.pdb
